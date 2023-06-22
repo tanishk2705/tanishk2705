@@ -1,5 +1,5 @@
 <div align="center"><img src="https://i.imgur.com/YHbA0nK.gif" height=300></div>
-<h1 align="center"> Hi there 👋<br>I am Tanishk Gupta!!!<br>This is my portfolio</h1>
+<h1 align="center"> Hi there 👋<br>I am Tanishk Gupta!!!<br></h1>
 
 ### 
 
@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
+###
+
+<h2 align="left">About me:</h2>
+
+###
  Tanishk Gupta, a student at NIT Raipur and an aspiring coder. With a passion for programming, I explore the world of programming with enthusiasm and determination.Beyond the lines of code, I bring a vibrant energy and a natural inclination towards collaboration. Whether I'm engaging in brainstorming sessions or leading coding competitions, I thrive on fostering teamwork and camaraderie.

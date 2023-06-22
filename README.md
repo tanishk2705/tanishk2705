@@ -1,3 +1,4 @@
+<div align="center"><img src="https://i.imgur.com/YHbA0nK.gif" height=300></div>
 ### Hi there 👋 I am Tanishk Gupta!!!
 
 <!--

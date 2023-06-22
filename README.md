@@ -1,5 +1,7 @@
 <div align="center"><img src="https://i.imgur.com/YHbA0nK.gif" height=300></div>
-### Hi there 👋 I am Tanishk Gupta!!!
+<h1 align="center"> Hi there 👋<br>I am Tanishk Gupta!!!<br>This is my portfolio</h1>
+
+### 
 
 <!--
 **tanishk2705/tanishk2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

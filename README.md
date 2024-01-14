@@ -7,6 +7,6 @@
 ```bash
 npx tanishk
 ```
-**👆 This command line tool can be found at [npx ishaan](https://github.com/IshaanAdarsh/npx_card)**
+**👆 This command line tool can be found at [npx tanishk](https://github.com/IshaanAdarsh/npx_card)**
 
 ###
